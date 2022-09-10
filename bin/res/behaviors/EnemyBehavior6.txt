@@ -1,0 +1,21 @@
+60
+50
+2
+100
+1
+120
+3
+5
+100
+1
+1 10 0 1 2 20 20 BlueStinger.png 1 0 0 false
+75
+1
+120
+3
+10
+100
+2
+0.75 10 0 1 2 20 20 BlueStinger.png 1 0 0 false
+1.5 10 0 1 2 20 20 BlueStinger.png 2 10 0 false
+2.25 10 0 1 2 20 20 BlueStinger.png 3 10 0 false

@@ -1,0 +1,37 @@
+1500
+8000
+3
+100
+2
+5
+1
+2
+0
+1
+0.5 10 0 1 10 20 20 YellowStinger.png 1 0 0 false
+1
+2
+7.5
+0
+2
+0.5 10 0 1 10 20 20 RedStinger.png 1 0 0 false
+0.2 10 0 1 20 30 30 RedStinger.png 16 360 0 false
+67
+1
+120
+3
+10
+350
+2
+1 10 0 5 10 25 25 BlueStinger.png 5 90 0 false
+3 3 0 5 8 15 15 BlueStinger.png 15 180 0 false
+33
+1
+120
+3
+10
+350
+3
+1.5 10 0 1 20 30 30 RedStinger.png 16 360 0 false
+1 10 0 5 10 25 25 BlueStinger.png 5 90 0 false
+0.5 10 0 1 10 20 20 YellowStinger.png 1 0 0 false

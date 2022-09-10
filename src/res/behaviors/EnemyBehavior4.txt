@@ -1,0 +1,19 @@
+50
+60
+2
+100
+1
+120
+3
+5
+150
+1
+1 10 0 1 2 20 20 YellowStinger.png 1 0 0 false
+75
+1
+120
+3
+5
+150
+1
+0.5 10 0 1 2 20 20 YellowStinger.png 1 0 0 false

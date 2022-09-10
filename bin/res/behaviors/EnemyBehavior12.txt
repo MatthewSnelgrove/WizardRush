@@ -1,0 +1,51 @@
+25000
+25000
+4
+100
+2
+5
+1
+2
+0
+1
+0.5 10 0 1 50 20 20 Fireball.png 1 0 0 false
+1
+2
+7.5
+0
+2
+0.5 10 0 1 50 20 20 Fireball.png 1 0 0 false
+0.2 10 0 1 100 30 30 Fireball.png 16 360 0 false
+75
+1
+120
+3
+10
+350
+2
+1 10 0 5 50 25 25 Icicle.png 5 90 0 false
+3 3 0 5 40 15 15 Iceball.png 15 180 0 false
+50
+1
+120
+2
+1
+2
+3
+0.5 5 1.5 1.5 20 25 25 YellowStinger.png 2 160 0 false
+0.75 7.5 0 1.5 40 25 25 RedStinger.png 2 10 0 false
+1 10 0 1 75 35 35 BlueStinger.png 3 15 0 false
+25
+1
+120
+1
+1.5
+0
+7
+2 10 0 1 100 30 30 Fireball.png 16 360 0 false
+1 10 0 5 50 25 25 Icicle.png 5 90 0 false
+3 3 0 5 40 15 15 Iceball.png 15 180 0 false
+0.5 5 1.5 1.5 20 25 25 YellowStinger.png 2 160 0 false
+0.75 7.5 0 1.5 40 25 25 RedStinger.png 2 10 0 false
+1 10 0 1 75 35 35 BlueStinger.png 3 15 0 false
+1 7.5 0 1 150 35 35 Natureball.png 5 180 0 false

@@ -1,0 +1,36 @@
+500
+1000
+3
+100
+2
+5
+1
+2
+0
+1
+0.5 10 0 1 5 20 20 Fireball.png 1 0 0 false
+1
+2
+7.5
+0
+2
+0.5 10 0 1 5 20 20 Fireball.png 1 0 0 false
+0.2 10 0 1 10 30 30 Fireball.png 16 360 0 false
+67
+1
+120
+3
+10
+350
+2
+1 10 0 5 5 25 25 Icicle.png 5 90 0 false
+3 3 0 5 4 15 15 Iceball.png 15 180 0 false
+33
+1
+120
+3
+10
+350
+2
+1 10 0 5 4 25 25 NatureBall.png 5 90 0 false
+0.5 10 0 5 4 25 25 NatureBall.png 10 140 0 false
